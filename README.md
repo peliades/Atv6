@@ -1,4 +1,4 @@
-# Atv5
+# Atv 6
 ## 1) Objetivo do código:
 
 O objetivo do codigo é implementar uma quantidade P + C de threads onde P threads produzem dados com um limite X e os armazenam em um buffer e C threads consomem esses dados e os removem do buffer
